@@ -1,0 +1,1 @@
+/home/ainiaalif/project_mobil/devel/.private/kumpulan_msgs/share/gennodejs/ros/kumpulan_msgs/msg/it_vision.js

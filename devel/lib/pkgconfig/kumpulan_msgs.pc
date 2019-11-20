@@ -1,0 +1,1 @@
+/home/ainiaalif/project_mobil/devel/.private/kumpulan_msgs/lib/pkgconfig/kumpulan_msgs.pc

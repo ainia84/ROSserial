@@ -1,0 +1,1 @@
+/home/ainiaalif/project_mobil/devel/.private/kumpulan_msgs/share/kumpulan_msgs/cmake/kumpulan_msgsConfig-version.cmake

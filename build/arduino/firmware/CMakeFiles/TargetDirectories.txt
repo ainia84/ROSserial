@@ -1,0 +1,7 @@
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/edit_cache.dir
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/uno_CORE.dir
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/hello.dir
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/hello-size.dir
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/rebuild_cache.dir
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/upload.dir
+/home/ainiaalif/project_mobil/build/arduino/firmware/CMakeFiles/hello-upload.dir

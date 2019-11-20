@@ -1,0 +1,10 @@
+/home/ainiaalif/project_mobil/install/_setup_util.py
+/home/ainiaalif/project_mobil/install/env.sh
+/home/ainiaalif/project_mobil/install/setup.bash
+/home/ainiaalif/project_mobil/install/setup.sh
+/home/ainiaalif/project_mobil/install/setup.zsh
+/home/ainiaalif/project_mobil/install/.rosinstall
+/home/ainiaalif/project_mobil/install/lib/pkgconfig/arduino.pc
+/home/ainiaalif/project_mobil/install/share/arduino/cmake/arduinoConfig.cmake
+/home/ainiaalif/project_mobil/install/share/arduino/cmake/arduinoConfig-version.cmake
+/home/ainiaalif/project_mobil/install/share/arduino/package.xml

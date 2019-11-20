@@ -1,0 +1,6 @@
+devel_space: /home/ainiaalif/project_mobil/devel
+install: true
+install_space: /home/ainiaalif/project_mobil/install
+profile: default
+source_space: /home/ainiaalif/project_mobil/src
+workspace: /home/ainiaalif/project_mobil

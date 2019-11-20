@@ -1,0 +1,14 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _kumpulan_msgs_generate_messages_check_deps_it_control
+[  0%] Built target _kumpulan_msgs_generate_messages_check_deps_arduino_it
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _kumpulan_msgs_generate_messages_check_deps_it_vision
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[ 17%] Built target kumpulan_msgs_generate_messages_lisp
+[ 58%] Built target kumpulan_msgs_generate_messages_nodejs
+[ 58%] Built target kumpulan_msgs_generate_messages_eus
+[ 76%] Built target kumpulan_msgs_generate_messages_cpp
+[100%] Built target kumpulan_msgs_generate_messages_py
+[100%] Built target kumpulan_msgs_generate_messages

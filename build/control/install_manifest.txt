@@ -1,0 +1,13 @@
+/home/ainiaalif/project_mobil/install/_setup_util.py
+/home/ainiaalif/project_mobil/install/env.sh
+/home/ainiaalif/project_mobil/install/setup.bash
+/home/ainiaalif/project_mobil/install/setup.sh
+/home/ainiaalif/project_mobil/install/setup.zsh
+/home/ainiaalif/project_mobil/install/.rosinstall
+/home/ainiaalif/project_mobil/install/lib/pkgconfig/control.pc
+/home/ainiaalif/project_mobil/install/share/control/cmake/controlConfig.cmake
+/home/ainiaalif/project_mobil/install/share/control/cmake/controlConfig-version.cmake
+/home/ainiaalif/project_mobil/install/share/control/package.xml
+/home/ainiaalif/project_mobil/install/lib/control/publisher.py
+/home/ainiaalif/project_mobil/install/lib/control/subscriber.py
+/home/ainiaalif/project_mobil/install/lib/control/mainOne.py

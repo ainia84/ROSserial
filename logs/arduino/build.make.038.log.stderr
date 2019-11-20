@@ -1,0 +1,13 @@
+make[4]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+avrdude: ser_open(): can't open device "/dev/ttyACM0": No such file or directory
+
+avrdude done.  Thank you.
+
+make[7]: *** [CMakeFiles/hello-upload] Error 1
+make[6]: *** [CMakeFiles/hello-upload.dir/all] Error 2
+make[5]: *** [CMakeFiles/hello-upload.dir/rule] Error 2
+make[4]: *** [hello-upload] Error 2
+make[3]: *** [CMakeFiles/arduino_firmware_hello-upload] Error 2
+make[2]: *** [CMakeFiles/arduino_firmware_hello-upload.dir/all] Error 2
+make[1]: *** [CMakeFiles/arduino_firmware_hello-upload.dir/rule] Error 2
+make: *** [arduino_firmware_hello-upload] Error 2

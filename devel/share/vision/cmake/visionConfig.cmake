@@ -1,0 +1,1 @@
+/home/ainiaalif/project_mobil/devel/.private/vision/share/vision/cmake/visionConfig.cmake

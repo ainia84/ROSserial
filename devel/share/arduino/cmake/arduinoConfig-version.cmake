@@ -1,0 +1,1 @@
+/home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/cmake/arduinoConfig-version.cmake

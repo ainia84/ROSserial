@@ -1,0 +1,7 @@
+arduino
+/home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/hello.eep /home/ainiaalif/project_mobil/devel/share/arduino/hello.eep
+/home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/hello.elf /home/ainiaalif/project_mobil/devel/share/arduino/hello.elf
+/home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/hello.hex /home/ainiaalif/project_mobil/devel/share/arduino/hello.hex
+/home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/cmake/arduinoConfig.cmake /home/ainiaalif/project_mobil/devel/share/arduino/cmake/arduinoConfig.cmake
+/home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/cmake/arduinoConfig-version.cmake /home/ainiaalif/project_mobil/devel/share/arduino/cmake/arduinoConfig-version.cmake
+/home/ainiaalif/project_mobil/devel/.private/arduino/lib/pkgconfig/arduino.pc /home/ainiaalif/project_mobil/devel/lib/pkgconfig/arduino.pc

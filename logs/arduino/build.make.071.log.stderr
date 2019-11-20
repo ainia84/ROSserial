@@ -1,0 +1,8 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+/home/ainiaalif/project_mobil/src/arduino/firmware/control.cpp: In function ‘void CRPM()’:
+/home/ainiaalif/project_mobil/src/arduino/firmware/control.cpp:112:14: warning: integer overflow in expression [-Woverflow]
+     rpm = (60*1000 / ppr)/(millis()-timeold)*pulses;
+              ^
+Firmware Size:  [Program: 13722 bytes (41.9%)]  [Data: 1518 bytes (74.1%)] on atmega328p
+EEPROM   Size:  [Program: 0 bytes (0.0%)]  [Data: 0 bytes (0.0%)] on atmega328p
+

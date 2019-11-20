@@ -1,0 +1,1 @@
+/usr/bin/avr-g++   -g -Os       -mcall-prologues -ffunction-sections -fdata-sections -fno-exceptions  -Wl,--gc-sections -lm -mmcu=atmega328p  CMakeFiles/hello.dir/control.cpp.obj CMakeFiles/hello.dir/home/ainiaalif/project_mobil/build/arduino/ros_lib/time.cpp.obj  -o /home/ainiaalif/project_mobil/devel/.private/arduino/share/arduino/hello.elf  libuno_CORE.a -lc -lm 

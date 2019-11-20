@@ -1,0 +1,1 @@
+/home/ainiaalif/project_mobil/devel/.private/kumpulan_msgs/share/roseus/ros/kumpulan_msgs/manifest.l

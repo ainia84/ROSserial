@@ -1,0 +1,12 @@
+[  0%] Built target rosserial_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[100%] Built target arduino_ros_lib
+-- Generating hello
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ainiaalif/project_mobil/build/arduino/firmware
+[100%] Built target arduino_firmware
+make[3]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+[ 87%] Built target uno_CORE
+[100%] Built target hello
+[100%] Built target arduino_firmware_hello

@@ -1,0 +1,15 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/ainiaalif/project_mobil/install/_setup_util.py
+-- Up-to-date: /home/ainiaalif/project_mobil/install/env.sh
+-- Up-to-date: /home/ainiaalif/project_mobil/install/setup.bash
+-- Up-to-date: /home/ainiaalif/project_mobil/install/setup.sh
+-- Up-to-date: /home/ainiaalif/project_mobil/install/setup.zsh
+-- Up-to-date: /home/ainiaalif/project_mobil/install/.rosinstall
+-- Installing: /home/ainiaalif/project_mobil/install/lib/pkgconfig/vision.pc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/vision/cmake/visionConfig.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/vision/cmake/visionConfig-version.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/vision/package.xml
+-- Installing: /home/ainiaalif/project_mobil/install/lib/vision/camera.py
+-- Installing: /home/ainiaalif/project_mobil/install/lib/vision/main.py
+-- Installing: /home/ainiaalif/project_mobil/install/lib/vision/vision.py

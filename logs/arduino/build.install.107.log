@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosserial_msgs_generate_messages_py
+[100%] Built target arduino_ros_lib
+-- Generating hello
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ainiaalif/project_mobil/build/arduino/firmware
+[100%] Built target arduino_firmware
+[ 87%] Built target uno_CORE
+[100%] Built target hello
+[100%] Built target arduino_firmware_hello
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/ainiaalif/project_mobil/install/_setup_util.py
+-- Installing: /home/ainiaalif/project_mobil/install/env.sh
+-- Installing: /home/ainiaalif/project_mobil/install/setup.bash
+-- Installing: /home/ainiaalif/project_mobil/install/setup.sh
+-- Installing: /home/ainiaalif/project_mobil/install/setup.zsh
+-- Installing: /home/ainiaalif/project_mobil/install/.rosinstall
+-- Installing: /home/ainiaalif/project_mobil/install/lib/pkgconfig/arduino.pc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/arduino/cmake/arduinoConfig.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/arduino/cmake/arduinoConfig-version.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/arduino/package.xml

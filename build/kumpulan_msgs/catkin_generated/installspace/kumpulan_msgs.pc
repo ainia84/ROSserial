@@ -1,0 +1,8 @@
+prefix=/home/ainiaalif/project_mobil/install
+
+Name: kumpulan_msgs
+Description: Description of kumpulan_msgs
+Version: 0.0.0
+Cflags: -I/home/ainiaalif/project_mobil/install/include
+Libs: -L/home/ainiaalif/project_mobil/install/lib 
+Requires: roscpp rospy std_msgs message_runtime

@@ -1,0 +1,72 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _kumpulan_msgs_generate_messages_check_deps_arduino_it
+[  0%] Built target _kumpulan_msgs_generate_messages_check_deps_it_control
+[  0%] Built target _kumpulan_msgs_generate_messages_check_deps_it_vision
+[ 17%] Built target kumpulan_msgs_generate_messages_lisp
+[ 17%] Built target std_msgs_generate_messages_nodejs
+[ 35%] Built target kumpulan_msgs_generate_messages_nodejs
+[ 35%] Built target std_msgs_generate_messages_eus
+[ 58%] Built target kumpulan_msgs_generate_messages_eus
+[ 58%] Built target std_msgs_generate_messages_cpp
+[ 76%] Built target kumpulan_msgs_generate_messages_cpp
+[ 76%] Built target std_msgs_generate_messages_py
+[100%] Built target kumpulan_msgs_generate_messages_py
+[100%] Built target kumpulan_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/ainiaalif/project_mobil/install/_setup_util.py
+-- Installing: /home/ainiaalif/project_mobil/install/env.sh
+-- Installing: /home/ainiaalif/project_mobil/install/setup.bash
+-- Installing: /home/ainiaalif/project_mobil/install/setup.sh
+-- Installing: /home/ainiaalif/project_mobil/install/setup.zsh
+-- Installing: /home/ainiaalif/project_mobil/install/.rosinstall
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/msg/it_control.msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/msg/it_vision.msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/msg/arduino_it.msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/cmake/kumpulan_msgs-msg-paths.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/include/kumpulan_msgs
+-- Up-to-date: /home/ainiaalif/project_mobil/install/include/kumpulan_msgs/it_control.h
+-- Up-to-date: /home/ainiaalif/project_mobil/install/include/kumpulan_msgs/arduino_it.h
+-- Up-to-date: /home/ainiaalif/project_mobil/install/include/kumpulan_msgs/it_vision.h
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/roseus/ros/kumpulan_msgs
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/roseus/ros/kumpulan_msgs/manifest.l
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/roseus/ros/kumpulan_msgs/msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/roseus/ros/kumpulan_msgs/msg/it_vision.l
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/roseus/ros/kumpulan_msgs/msg/arduino_it.l
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/roseus/ros/kumpulan_msgs/msg/it_control.l
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/it_vision.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/arduino_it.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/_package.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/_package_arduino_it.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/kumpulan_msgs-msg.asd
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/_package_it_vision.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/_package_it_control.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/common-lisp/ros/kumpulan_msgs/msg/it_control.lisp
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs/msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs/msg/arduino_it.js
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs/msg/it_control.js
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs/msg/it_vision.js
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs/msg/_index.js
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/gennodejs/ros/kumpulan_msgs/_index.js
+Listing /home/ainiaalif/project_mobil/devel/.private/kumpulan_msgs/lib/python2.7/dist-packages/kumpulan_msgs ...
+Listing /home/ainiaalif/project_mobil/devel/.private/kumpulan_msgs/lib/python2.7/dist-packages/kumpulan_msgs/msg ...
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/__init__.py
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/__init__.pyc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/__init__.py
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/_it_control.py
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/__init__.pyc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/_arduino_it.py
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/_arduino_it.pyc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/_it_vision.pyc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/_it_control.pyc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/lib/python2.7/dist-packages/kumpulan_msgs/msg/_it_vision.py
+-- Installing: /home/ainiaalif/project_mobil/install/lib/pkgconfig/kumpulan_msgs.pc
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/cmake/kumpulan_msgs-msg-extras.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/cmake/kumpulan_msgsConfig.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/cmake/kumpulan_msgsConfig-version.cmake
+-- Up-to-date: /home/ainiaalif/project_mobil/install/share/kumpulan_msgs/package.xml
